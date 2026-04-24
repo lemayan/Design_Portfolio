@@ -1,0 +1,15 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" fill="#0B1220"/>
+  <g opacity="0.36">
+    <path d="M120 790C280 590 380 640 560 520C790 360 1010 520 1220 350C1310 280 1400 240 1510 210" stroke="#22C55E" stroke-width="9" stroke-linecap="round"/>
+    <path d="M90 640C260 490 350 540 540 420C760 280 1010 410 1200 280C1290 220 1380 180 1490 140" stroke="#3B82F6" stroke-width="7" stroke-linecap="round"/>
+    <path d="M110 870C280 700 390 760 560 640C760 510 950 630 1160 490C1280 410 1370 390 1500 330" stroke="#E5E7EB" stroke-opacity="0.75" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g opacity="0.28">
+    <path d="M0 220H1600M0 320H1600M0 420H1600M0 520H1600M0 620H1600M0 720H1600M0 820H1600" stroke="#E5E7EB"/>
+    <path d="M210 0V1000M410 0V1000M610 0V1000M810 0V1000M1010 0V1000M1210 0V1000M1410 0V1000" stroke="#E5E7EB"/>
+  </g>
+  <circle cx="1180" cy="300" r="42" fill="#22C55E"/>
+  <circle cx="820" cy="530" r="36" fill="#3B82F6"/>
+  <text x="98" y="108" fill="#E5E7EB" font-size="52" font-family="Arial" font-weight="600">Flood Susceptibility Surface</text>
+</svg>

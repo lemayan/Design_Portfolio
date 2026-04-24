@@ -1,0 +1,14 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" fill="#0D1323"/>
+  <ellipse cx="850" cy="500" rx="560" ry="310" fill="#1E293B"/>
+  <path d="M360 610C500 430 720 420 880 520C1050 640 1220 640 1380 490" stroke="#22C55E" stroke-width="10" stroke-linecap="round"/>
+  <path d="M340 470C520 350 680 300 890 360C1110 420 1250 430 1380 350" stroke="#3B82F6" stroke-width="8" stroke-linecap="round"/>
+  <path d="M380 760C520 690 670 690 850 730C1050 780 1210 760 1370 700" stroke="#E5E7EB" stroke-opacity="0.7" stroke-width="5" stroke-linecap="round"/>
+  <g opacity="0.25">
+    <circle cx="430" cy="440" r="24" fill="#22C55E"/>
+    <circle cx="760" cy="390" r="19" fill="#3B82F6"/>
+    <circle cx="1100" cy="610" r="22" fill="#22C55E"/>
+    <circle cx="940" cy="700" r="16" fill="#3B82F6"/>
+  </g>
+  <text x="100" y="120" fill="#E5E7EB" font-size="50" font-family="Arial" font-weight="600">Landscape Pattern Extraction</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" fill="#06101D"/>
+  <g opacity="0.6">
+    <circle cx="420" cy="300" r="170" fill="#1E3A8A"/>
+    <circle cx="540" cy="520" r="140" fill="#059669"/>
+    <circle cx="760" cy="360" r="190" fill="#1D4ED8"/>
+    <circle cx="980" cy="540" r="180" fill="#16A34A"/>
+    <circle cx="1180" cy="340" r="160" fill="#2563EB"/>
+  </g>
+  <g opacity="0.25">
+    <rect x="130" y="180" width="1340" height="640" stroke="#E5E7EB" stroke-width="3"/>
+    <path d="M130 340H1470M130 500H1470M130 660H1470" stroke="#E5E7EB"/>
+    <path d="M400 180V820M670 180V820M940 180V820M1210 180V820" stroke="#E5E7EB"/>
+  </g>
+  <text x="100" y="120" fill="#E5E7EB" font-size="50" font-family="Arial" font-weight="600">Satellite-Derived Land Cover Layers</text>
+</svg>
